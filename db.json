@@ -42,7 +42,7 @@
     }
   ],
 
-  "recipe": [
+  "recipes": [
     {
         "id": 1,
         "category": "Food",
