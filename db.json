@@ -41,4 +41,16 @@
       "organizer": "Benjamin Harry"
     }
   ]
+
+  "recipe": [
+    {
+        "id": 1,
+        "category": "Food",
+        "title": "Spider",
+        "duration": "90",
+        "ingredient": "Spider, Corn Flake, Eggs, Oil, Salt, Curry, Chili, Pepper",
+        "method": "I'm really too lazy to do it",
+        "From": "Benjamin Harry"
+      }
+  ]
 }
