@@ -51,6 +51,15 @@
         "ingredient": "Spider, Corn Flake, Eggs, Oil, Salt, Curry, Chili, Pepper",
         "method": "I'm really too lazy to do it",
         "From": "Benjamin Harry"
+      },
+      {
+        "id": 2,
+        "category": "Food",
+        "title": "Fish",
+        "duration": "90'",
+        "ingredient": "Spider, Corn Flake, Eggs, Oil, Salt, Curry, Chili, Pepper",
+        "method": "I'm really too lazy to do it",
+        "From": "Benjamin Harry"
       }
   ]
 }
